@@ -1,0 +1,6 @@
+#common data
+#Fri Apr 11 13:55:07 IST 2025
+browser=chrome
+password=admin
+url=google.com
+username=admin
